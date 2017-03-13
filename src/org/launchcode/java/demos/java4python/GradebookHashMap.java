@@ -20,7 +20,7 @@ public class GradebookHashMap {
         // Get student names and grades
         do {
 
-            System.out.print("Student: ");
+            System.out.print("school.Student: ");
             newStudent = in.nextLine();
 
             if (!newStudent.equals("")) {
